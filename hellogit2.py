@@ -1,3 +1,1 @@
-print ("Hello Git 2")
-
-print ("Nuevo print anache")
+print ("Hello Git 2 v2")
